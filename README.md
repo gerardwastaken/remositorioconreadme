@@ -1,2 +1,2 @@
-# remositorioconreadme
+# repositorioconreadme
 repositorio con read me
